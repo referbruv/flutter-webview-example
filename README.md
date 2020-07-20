@@ -1,16 +1,11 @@
 # web_view_app
 
-A new Flutter project.
+A sample application to demonstrate working with WebViews in Flutter.
 
-## Getting Started
+Check out the below article for complete explanation:
 
-This project is a starting point for a Flutter application.
+https://referbruv.com/blog/posts/working-with-webviews-in-flutter
 
-A few resources to get you started if this is your first Flutter project:
+For more articles on Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://referbruv.com/
